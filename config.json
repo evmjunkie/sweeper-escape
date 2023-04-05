@@ -1,0 +1,15 @@
+{
+    "chainId": 1,
+    "minimumAssetValueUSD": 0,
+    "compromisedAccountPrivatekey": "",
+    "safeAccountPrivatekey": "",
+    "flashbotsSigningKey": "",
+    "apiKeys": {
+        "alchemy": "-LFSHvUO",
+        "moralis": ""
+    },
+    "tenderly": {
+        "url": "",
+        "key": ""
+    }
+}
