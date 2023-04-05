@@ -63,16 +63,16 @@ EVMJunkie - [@evmjunkie](https://twitter.com/evmjunkie) - dope@evmjunkie.xyz
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/evmjunkie/counter-sweeper.svg?style=for-the-badge
-[contributors-url]: https://github.com/evmjunkie/counter-sweeper/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/evmjunkie/counter-sweeper.svg?style=for-the-badge
-[forks-url]: https://github.com/evmjunkie/counter-sweeper/network/members
-[stars-shield]: https://img.shields.io/github/stars/evmjunkie/counter-sweeper.svg?style=for-the-badge
-[stars-url]: https://github.com/evmjunkie/counter-sweeper/stargazers
-[issues-shield]: https://img.shields.io/github/issues/evmjunkie/counter-sweeper.svg?style=for-the-badge
-[issues-url]: https://github.com/evmjunkie/counter-sweeper/issues
-[license-shield]: https://img.shields.io/github/license/evmjunkie/counter-sweeper.svg?style=for-the-badge
-[license-url]: https://github.com/evmjunkie/counter-sweeper/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/evmjunkie/sweeper-escape.svg?style=for-the-badge
+[contributors-url]: https://github.com/evmjunkie/sweeper-escape/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/evmjunkie/sweeper-escape.svg?style=for-the-badge
+[forks-url]: https://github.com/evmjunkie/sweeper-escape/network/members
+[stars-shield]: https://img.shields.io/github/stars/evmjunkie/sweeper-escape.svg?style=for-the-badge
+[stars-url]: https://github.com/evmjunkie/sweeper-escape/stargazers
+[issues-shield]: https://img.shields.io/github/issues/evmjunkie/sweeper-escape.svg?style=for-the-badge
+[issues-url]: https://github.com/evmjunkie/sweeper-escape/issues
+[license-shield]: https://img.shields.io/github/license/evmjunkie/sweeper-escape.svg?style=for-the-badge
+[license-url]: https://github.com/evmjunkie/sweeper-escape/blob/master/LICENSE.txt
 
 [Python]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
 [PythonUrl]: https://python.org/
