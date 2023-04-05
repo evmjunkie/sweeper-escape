@@ -9,7 +9,7 @@
         "moralis": ""
     },
     "tenderly": {
-        "url": "",
+        "url": "https://api.tenderly.co/api/v1/account/_EDIT_IN_USERNAME_/project/_EDIT_IN_PROJECTNAME_/simulate",
         "key": ""
     }
 }
